@@ -13,5 +13,5 @@ class Person
   
   def job
     @job #write to a corresponding instance variable
-  end`
+  end
 end
