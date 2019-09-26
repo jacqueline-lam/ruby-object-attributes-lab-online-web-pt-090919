@@ -1,3 +1,3 @@
 class Dog 
-  defname #getter 
+  def name= #getter 
 end
