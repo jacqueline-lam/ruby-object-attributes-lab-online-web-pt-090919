@@ -4,7 +4,7 @@ class Dog
   end
   
   def name #getter
-    @name
+    @name #Instance Variable
   end
   
   def breed=(breed)
